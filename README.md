@@ -10,7 +10,7 @@ Construida con **HTML**, **Bootstrap 5**, **JavaScript** moderno (Vanilla JS) y 
 
 ---
 
-**[➡️ Ver Demo en Vivo](https://soyunomas.github.io/simple-js-image-resizer-cropper/)**
+**[➡️ Ver Demo en Vivo](https://soyunomas.github.io/simple-js-image-resizer-cropper/index.html)**
 
 ---
 
