@@ -16,10 +16,10 @@ Construida con **HTML**, **Bootstrap 5**, **JavaScript** y la librería **Croppe
 
 ## 📸 Capturas de Pantalla (Ejemplos)
 
-![Screenshot de la interfaz principal](docs/screenshot-main.png) <!-- ¡Reemplaza con tu captura! Puedes crear una carpeta 'docs' o 'assets' en tu repo -->
+![Screenshot de la interfaz principal](screenshot-main.png)
 *Interfaz principal mostrando la carga de imágenes y las pestañas de opciones.*
 
-![Screenshot del recorte](docs/screenshot-crop.png) <!-- ¡Reemplaza con tu captura! -->
+![Screenshot del recorte](screenshot-crop.png)
 *Ejemplo de la herramienta de recorte interactiva con Cropper.js.*
 
 ---
