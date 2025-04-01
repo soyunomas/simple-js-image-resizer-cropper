@@ -101,7 +101,6 @@ Como es una aplicación puramente de lado del cliente, no necesitas instalación
 
 Distribuido bajo la Licencia MIT. Ver `LICENSE` para más información.
 
-*(¡Asegúrate de añadir un archivo `LICENSE` a tu repositorio con el texto completo de la licencia MIT si decides usarla! Puedes encontrarlo fácilmente online).*
 
 ---
 
