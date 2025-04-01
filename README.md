@@ -6,7 +6,7 @@
 
 Una aplicación web sencilla y autónoma (**frontend puro**) para **redimensionar** y **recortar** imágenes directamente en el navegador. Permite cargar múltiples imágenes, redimensionarlas por píxeles o porcentaje (con opciones de aspecto y no-ampliación) y recortar imágenes individuales de forma interactiva.
 
-Construida con **HTML**, **Bootstrap 5**, **JavaScript** moderno (Vanilla JS) y la librería **Cropper.js**.
+Construida con **HTML**, **Bootstrap 5**, **JavaScript** y la librería **Cropper.js**.
 
 ---
 
@@ -15,8 +15,6 @@ Construida con **HTML**, **Bootstrap 5**, **JavaScript** moderno (Vanilla JS) y 
 ---
 
 ## 📸 Capturas de Pantalla (Ejemplos)
-
-*¡Es muy recomendable añadir capturas de pantalla reales aquí para mostrar cómo se ve tu aplicación!*
 
 ![Screenshot de la interfaz principal](docs/screenshot-main.png) <!-- ¡Reemplaza con tu captura! Puedes crear una carpeta 'docs' o 'assets' en tu repo -->
 *Interfaz principal mostrando la carga de imágenes y las pestañas de opciones.*
